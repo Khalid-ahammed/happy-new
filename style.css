@@ -431,7 +431,7 @@ p{
         top:9%;
     }
 }
-@media screen and (max-height:330px)
+@media screen and (max-height:350px)
 {
     .flowerbox{
         height:55px;
